@@ -1,0 +1,28 @@
+[hxu65@hills SortedListHasA]$ ./a.out
+The sorted list contains
+95 89 86 75 59 36
+
+Enter a new score: 77
+Here's the new sorted list:
+The sorted list contains
+95 89 86 77 75 59 36
+
+Do you want to add another new score? (enter 'n' to quit)y
+Enter a new score: 99
+Here's the new sorted list:
+The sorted list contains
+99 95 89 86 77 75 59 36
+
+Do you want to add another new score? (enter 'n' to quit)y
+Enter a new score: 33
+Here's the new sorted list:
+The sorted list contains
+99 95 89 86 77 75 59 36 33
+
+Do you want to add another new score? (enter 'n' to quit)y
+Enter a new score: 60
+Here's the new sorted list:
+The sorted list contains
+99 95 89 86 77 75 60 59 36 33
+
+Do you want to add another new score? (enter 'n' to quit)n
