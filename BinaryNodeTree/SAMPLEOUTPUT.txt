@@ -1,0 +1,45 @@
+[hxu65@hills BinaryNodeTree]$ g++ *.cpp
+[hxu65@hills BinaryNodeTree]$ ./a.out
+Tree 1 Inorder:
+Displaying item - 10
+Displaying item - 30
+Displaying item - 50
+Displaying item - 60
+Displaying item - 20
+Displaying item - 40
+Tree 2 Inorder:
+Displaying item - 30
+Displaying item - 10
+Displaying item - 60
+Displaying item - 20
+Displaying item - 40
+Displaying item - 50
+Tree 3 Inorder:
+Displaying item - 40
+Displaying item - 60
+Displaying item - 30
+Displaying item - 50
+Displaying item - 10
+Displaying item - 20
+[hxu65@hills BinaryNodeTree]$ ./a.out
+Tree 1 Inorder:
+Displaying item - 30
+Displaying item - 50
+Displaying item - 60
+Displaying item - 10
+Displaying item - 20
+Displaying item - 40
+Tree 2 Inorder:
+Displaying item - 50
+Displaying item - 30
+Displaying item - 60
+Displaying item - 10
+Displaying item - 20
+Displaying item - 40
+Tree 3 Inorder:
+Displaying item - 60
+Displaying item - 30
+Displaying item - 10
+Displaying item - 50
+Displaying item - 40
+Displaying item - 20
